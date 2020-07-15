@@ -3,8 +3,9 @@
 # Machine_learning-Yearning-1
 
 ## Technical Strategy for AI engineers in the Era of Deep Learning:-- Author- ANDREW NG
+<br>
 
-<bold> Machine Learning Yearning, a free book that Dr. Andrew Ng is currently writing, teaches you how to structure machine learning projects. This book is focused not on teaching you ML algorithms, but on how to make them work.</bold>
+<b> Machine Learning Yearning, a free book that Dr. Andrew Ng is currently writing, teaches you how to structure machine learning projects. This book is focused not on teaching you ML algorithms, but on how to make them work.</b>
 
 <hr>
 
