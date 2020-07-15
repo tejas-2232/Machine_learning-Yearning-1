@@ -2,3 +2,5 @@
 
 ## Technical Strategy for AI engineers in the Era of Deep Learning
 ## Author- ANDREW NG
+<hr>
+
